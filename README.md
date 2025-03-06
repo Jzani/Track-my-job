@@ -34,28 +34,22 @@
 
 To run **TrackMyJob** locally, follow these steps:
 
-1. Clone the repository:
 
-```bash {"id":"01J9V29TY4XZY5AJNJ4QF7J827"}
-git clone https://github.com/CodeWithMayank-Py/TrackMyJob-WebApp.git
-
-```
-
-2. Navigate to the project directory:
+1. Navigate to the project directory:
 
 ```bash {"id":"01J9V29TY4XZY5AJNJ4QMBP357"}
 cd job-tracker
 
 ```
 
-3. Install dependencies:
+2. Install dependencies:
 
 ```bash {"id":"01J9V29TY4XZY5AJNJ4RJEQTBH"}
 npm install
 
 ```
 
-4. Start the application:
+3. Start the application:
 
 ```bash {"id":"01J9V29TY4XZY5AJNJ4TYAHR4E"}
 npm start
